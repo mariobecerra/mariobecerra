@@ -1,7 +1,8 @@
 ### About me
 
 I'm an applied mathematician, data scientist, and computer scientist. My main interests are statistical modeling, data visualization, predictive analytics, and machine learning.
-I am currently a doctoral researcher at the [Mechatronics, Biostatistics and Sensors (MeBioS)](https://www.biw.kuleuven.be/biosyst/mebios) division of the Biosystems Department. at[KU Leuven](https://www.kuleuven.be/english/). My current research focuses on statistics and Bayesian optimal experimental design for choice models.
+
+I am currently a doctoral researcher at the [Mechatronics, Biostatistics and Sensors (MeBioS)](https://www.biw.kuleuven.be/biosyst/mebios) division of the Biosystems Department at [KU Leuven](https://www.kuleuven.be/english/). My current research focuses on statistics and Bayesian optimal experimental design for choice models.
 
 <!--
 **mariobecerra/mariobecerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
