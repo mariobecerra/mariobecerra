@@ -4,7 +4,7 @@ I'm an applied mathematician, statistician, and computer scientist. My main inte
 
 LinkedIn: https://www.linkedin.com/in/mbecerrac/
 
-Webpage: www.mariobecerra.com
+Webpage: https://mariobecerra.github.io/
 
 
 I am currently a doctoral researcher at the [Mechatronics, Biostatistics and Sensors (MeBioS)](https://www.biw.kuleuven.be/biosyst/mebios) division of the Biosystems Department at [KU Leuven](https://www.kuleuven.be/english/). My current research focuses on optimal design of choice experiments as well as their analysis.
