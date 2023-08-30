@@ -2,8 +2,10 @@
 
 I'm an applied mathematician, statistician, and computer scientist. My main interests are data visualization, statistical modeling (particularly Bayesian modeling), experimental design, and predictive analytics.
 
-Github: https://github.com/mariobecerra
+LinkedIn: https://www.linkedin.com/in/mbecerrac/
+
 Webpage: www.mariobecerra.com
+
 
 I am currently a doctoral researcher at the [Mechatronics, Biostatistics and Sensors (MeBioS)](https://www.biw.kuleuven.be/biosyst/mebios) division of the Biosystems Department at [KU Leuven](https://www.kuleuven.be/english/). My current research focuses on optimal design of choice experiments as well as their analysis.
 
